@@ -1,6 +1,7 @@
 ![alt text](https://i.imgur.com/IhdqmsW.png "Banner")
 # EmptyWorld
 [![Build Status](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/badge/icon)](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/)
+[![Build Status](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/badge/icon?subject=Discord%20Server&status=Join)
 
 EmptyWorld is a plugin that allows you to create Empty Worlds without monsters, animals, structures and so on. This is also usefull to create arenas that only requires some blocks, this optimizes your users FPS since it only renders necesary blocks instead of rendering Terrain and Blocks. 
 
@@ -27,6 +28,10 @@ EmptyWorld is a plugin that allows you to create Empty Worlds without monsters, 
 **(4)** Use **/emptyworld** to see the instructions.
 
 **(5)** Allow Multiverse or Default Generator to generate the world and enjoy.
+
+## Download
+
+Get the latest builds on my personal [Jenkins](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/)!
 
 ## Usage
 
