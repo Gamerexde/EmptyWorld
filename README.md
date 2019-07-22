@@ -1,2 +1,55 @@
 # EmptyWorld
 No Blocks, No Animals, No Monsters, No Lag.
+
+EmptyWorld is a plugin that allows you to create Empty Worlds without monsters, animals, structures and so on. This is also usefull to create arenas that only requires some blocks, this optimizes your users FPS since it only renders necesary blocks instead of rendering Terrain and Blocks. 
+
+## Features
+● Lightweight.
+
+● Simple to use.
+
+● Dosen't require external plugins to work.
+
+● Works on 1.8x - 1.14x.
+
+● Can generate empty nether and end worlds.
+
+● Configurable SpawnPoint XYZ, BlockType and SpawnPoint.
+
+## Install
+**(1)** Make sure you are running Java 8 or later and Spigot 1.8x or newer.
+
+**(2)** Drop this plugin on the plugins folder.
+
+**(3)** Restart your server.
+
+**(4)** Use **/emptyworld** to see the instructions.
+
+**(5)** Allow Multiverse or Default Generator to generate the world and enjoy.
+
+## Usage
+
+### Multiverse Method: 
+
+To generate a empty world with multiverse use the following command:
+
+**/mv create <worldName> <normal,nether,end> -g EmptyWorld**
+
+With multiverse you can generate Nether and End Empty Worlds!
+
+### Default Bukkit Method: 
+
+To generate a empty world using default generator go to **bukkit.yml** and change this:
+
+```shell
+worlds:
+  worldName:
+    generator: EmptyWorld
+```
+
+## Discord Server
+Join my discord server!
+
+https://discord.gg/RtKQpc9
+
+
