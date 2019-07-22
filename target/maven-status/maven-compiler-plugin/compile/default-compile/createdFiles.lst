@@ -1,0 +1,4 @@
+pro\gamerexde\emptyworld\Main.class
+pro\gamerexde\emptyworld\Utils\BlockSpawner.class
+pro\gamerexde\emptyworld\Utils\Generator.class
+pro\gamerexde\emptyworld\Commands\EmptyWorld.class

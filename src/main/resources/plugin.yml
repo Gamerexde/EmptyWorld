@@ -1,0 +1,9 @@
+name: EmptyWorld
+version: ${project.version}
+main: pro.gamerexde.emptyworld.Main
+api-version: 1.13
+author: [Gamerexde]
+description: No Blocks, No Animals, No Monsters, No Lag.
+website: https://www.gamerexde.pro/
+commands:
+  emptyworld:

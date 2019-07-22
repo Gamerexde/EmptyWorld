@@ -1,0 +1,22 @@
+#___________               __           __      __            .__       .___
+#\_   _____/ _____ _______/  |_ ___.__./  \    /  \___________|  |    __| _/
+#|    __)_ /     \\____ \   __<   |  |\   \/\/   /  _ \_  __ \  |   / __ |
+#|        \  Y Y  \  |_> >  |  \___  | \        (  <_> )  | \/  |__/ /_/ |
+#/_______  /__|_|  /   __/|__|  / ____|  \__/\  / \____/|__|  |____/\____ |
+#\/      \/|__|         \/            \/                         \/
+#              No Blocks, No Animals, No Monsters, No Lag.
+
+# Congig Version
+# Don't touch this...
+version: 1
+
+# Spawn Location Cords
+spawn-block:
+  enabled: true
+  # Only use Integrer values, don't use Names.
+  # https://minecraft-ids.grahamedgecombe.com/
+  blockType: 7
+  x: 0
+  y: 100
+  z: 0
+  radius: 1
