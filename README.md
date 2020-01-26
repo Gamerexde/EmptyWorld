@@ -1,7 +1,4 @@
 ![alt text](https://i.imgur.com/IhdqmsW.png "Banner")
-[![Build Status](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/badge/icon)](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/)
-[![Build Status](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/badge/icon?subject=Discord%20Server&status=Join)](https://discord.gg/RtKQpc9)
-[![Build Status](https://hub.gamerexde.pro/jenkins/job/EmptyWorld/badge/icon?subject=SpigotMC&status=Plugin)](https://www.spigotmc.org/resources/emptyworld-no-blocks-no-animals-no-monsters-no-lag.69596/)
 
 EmptyWorld is a plugin that allows you to create Empty Worlds without monsters, animals, structures and so on. This is also usefull to create arenas that only requires some blocks, this optimizes your users FPS since it only renders necesary blocks instead of rendering Terrain and Blocks. 
 
